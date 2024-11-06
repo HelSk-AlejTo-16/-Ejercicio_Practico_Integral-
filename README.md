@@ -130,7 +130,9 @@ Aplicaciones del curso de Python en mi proyecto y en mi carrera profesional.
 ![imagen](https://github.com/user-attachments/assets/08ee5d0c-4ff0-4150-b249-38116ef77465)
 
 ## Este criterio se enfoca en la co-evaluación. Deberás observar el trabajo de uno de tus compañeros y proporcionar retroalimentación constructiva y respetuosa. 
-    Karen Anahí Padrón es muy buena compañera de trabajo, enfocada en el proyecto y siempre trata de realizar las actividades de la mejor manera posible, aunque suele ponerse nerviosa y dudar mucho de si misma. Recomendaría trabajar en ello ya que aunque no conmigo, a algunos compañeros puede molestar eso ó retrasar algún otro proyecto. Pero en todos los aspectos es muy responsable y buena en lo que hace.
+    Karen Anahí Padrón es muy buena compañera de trabajo, enfocada en el proyecto y siempre trata de realizar las actividades de la mejor manera posible,
+    aunque suele ponerse nerviosa y dudar mucho de si misma. Recomendaría trabajar en ello ya que aunque no conmigo, a algunos compañeros puede molestar eso ó
+    retrasar algún otro proyecto. Pero en todos los aspectos es muy responsable y buena en lo que hace.
     10/9.5.
 
 

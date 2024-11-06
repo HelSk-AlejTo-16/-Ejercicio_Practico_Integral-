@@ -101,6 +101,8 @@ el estado de la ventana y un led se encendiera, en caso contrario que este apaga
 # Presenta tu avance en el proyecto navideño mediante una demostración en clase para el docente y tus compañeros, mostrando el prototipo y explicando las mejoras realizadas en el diseño, los materiales y el software utilizado. Durante la presentación en clase:
 Bueno, la explicacióna groso modo es que se trata de un árbol navideño que gracias a un marcapasos este irá girando, mientras que una serie de leds simularan una serie navideña, además que el árbol contará con una estrella que es un led rgb que cambiará de color. Abajo del árbol se encontrará un regalo de naviddad y un sensor de proximidad. El sensor al detectar algo hará que el regalo se abra accionando un servomotor y dentro del regalo se deseara un feliz navidad en una pantalla oled que estará dentro de la caja de regalo. 
 
+    https://drive.google.com/file/d/15clI8WUCSqcjcgVAeNQyK1VqvUxClEJI/view?usp=drive_link
+
 
 
 
